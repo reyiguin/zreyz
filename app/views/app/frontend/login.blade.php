@@ -6,7 +6,7 @@
                		<div class="panel panel-default">
                     	<div class="panel-body">
                     		<div class="row">
-                    			<h4 class="text-center">Login your account and start selling with us</h4>
+                    			<h4 class="text-center">Login your account and start selling with us now!</h4>
                     		
                     			<div class="col-md-6 col-sm-6">
                     				<form onsubmit="return false;" id="loginForm" class="form-horizontal" method="post">
