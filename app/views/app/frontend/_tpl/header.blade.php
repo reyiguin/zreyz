@@ -40,8 +40,8 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.2.0/min/dropzone.min.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.0/animate.min.css"/>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,300italic,800,400italic' rel='stylesheet' type='text/css'>
-	<link href='bootstrap/iPostMoCustom.css' rel='stylesheet' type='text/css'>
-	<link href='bootstrap/datepicker.css' rel='stylesheet' type='text/css'>  
+	<link href='css/iPostMoCustom.css' rel='stylesheet' type='text/css'>
+	<link href='css/datepicker.css' rel='stylesheet' type='text/css'>  
     
 </head>
 

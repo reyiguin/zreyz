@@ -24,8 +24,8 @@
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="bootstrap/datepicker.js"></script>
-<script type="text/javascript" src="bootstrap/imgLiquid.js"></script>
+<script type="text/javascript" src="js/datepicker.js"></script>
+<script type="text/javascript" src="js/imgLiquid.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.js"></script>
 <script>
 $(document).ready(function(){
